@@ -1,0 +1,3 @@
+water planting alarm using soil moisture and rain prediction using humidity sensor
+Traffic prediction using vehicle count
+Sun tracking solar panel

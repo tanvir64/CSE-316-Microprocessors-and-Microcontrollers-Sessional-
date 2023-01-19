@@ -1,0 +1,6 @@
+Motor Driver input - PC0(pin2), PC1(pin7)
+Motor Driver enable - VCC(pin1)
+
+VS-12V,VSS-5V
+Motor Driver output-3,6 no pin
+AO from soil moisture sensor
